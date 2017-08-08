@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "250096293452",
+    "firebase_url": "https://bemovies-176116.firebaseio.com",
+    "project_id": "bemovies-176116",
+    "storage_bucket": "bemovies-176116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250096293452:android:83626a2580fc0413",
+        "android_client_info": {
+          "package_name": "com.example.raj.bemovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250096293452-v71fmeljsok6dl1pe5sq3pr30tadnvhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6HD7X5JGO0FTDwpbXJmdYtOoj_u9UB0c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
